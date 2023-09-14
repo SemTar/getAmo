@@ -1,0 +1,2 @@
+# getAmo
+getAmo test task
